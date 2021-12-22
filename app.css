@@ -629,7 +629,7 @@ footer a.logo:hover {
     place-items: center;
     border-radius: 50%;
     background-color: var(--text-color);
-    color: var(--main-color);
+    color: rgb(47, 163, 157);
 }
 
 .social-item:hover {
